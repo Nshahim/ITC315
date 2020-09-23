@@ -1,7 +1,9 @@
 public static void main(String[] args){
   int a = 5;
   int b = 8;
-  int d = add(a+b);
+  int d = add(a,b);
+  
+  int e = div(a,b);
 }
 
 public add(int a, int b){
